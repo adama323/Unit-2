@@ -1,7 +1,5 @@
-# Unit-2
-
 ---
-title: "Unit 2 Visualization"
+"Unit 2 Visualization"
 author: "Bivin"
 date: "4/28/2019"
 output: html_document
